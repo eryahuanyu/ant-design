@@ -18,7 +18,7 @@ import { Icon } from 'antd';
 
 ReactDOM.render(
   <div className="icons-list">
-    <Icon type="home" />
+    <Icon type="home" theme="filled"/>
     <Icon type="setting" theme="filled" />
     <Icon type="smile" theme="outlined" />
     <Icon type="sync" spin />
